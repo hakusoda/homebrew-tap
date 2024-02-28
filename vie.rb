@@ -1,4 +1,4 @@
-class VIE < Formula
+class Vie < Formula
     desc "VIE"
     homepage "https://github.com/hakusoda/VIE"
     version "0.0.3"
